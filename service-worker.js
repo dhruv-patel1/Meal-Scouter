@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Meal-Scouter/precache-manifest.1ba51654810e2e0a7294c21e2431883c.js"
+  "/Meal-Scouter/precache-manifest.1e37bf3c7aa74587bca8932630c26097.js"
 );
 
 self.addEventListener('message', (event) => {

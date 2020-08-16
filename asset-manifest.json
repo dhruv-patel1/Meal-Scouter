@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Meal-Scouter/static/css/main.288cee2d.chunk.css",
+    "main.css": "/Meal-Scouter/static/css/main.0ad0b65c.chunk.css",
     "main.js": "/Meal-Scouter/static/js/main.3f160401.chunk.js",
     "main.js.map": "/Meal-Scouter/static/js/main.3f160401.chunk.js.map",
     "runtime-main.js": "/Meal-Scouter/static/js/runtime-main.46a875cf.js",
@@ -8,9 +8,9 @@
     "static/js/2.9b6a7e40.chunk.js": "/Meal-Scouter/static/js/2.9b6a7e40.chunk.js",
     "static/js/2.9b6a7e40.chunk.js.map": "/Meal-Scouter/static/js/2.9b6a7e40.chunk.js.map",
     "index.html": "/Meal-Scouter/index.html",
-    "precache-manifest.1ba51654810e2e0a7294c21e2431883c.js": "/Meal-Scouter/precache-manifest.1ba51654810e2e0a7294c21e2431883c.js",
+    "precache-manifest.1e37bf3c7aa74587bca8932630c26097.js": "/Meal-Scouter/precache-manifest.1e37bf3c7aa74587bca8932630c26097.js",
     "service-worker.js": "/Meal-Scouter/service-worker.js",
-    "static/css/main.288cee2d.chunk.css.map": "/Meal-Scouter/static/css/main.288cee2d.chunk.css.map",
+    "static/css/main.0ad0b65c.chunk.css.map": "/Meal-Scouter/static/css/main.0ad0b65c.chunk.css.map",
     "static/js/2.9b6a7e40.chunk.js.LICENSE.txt": "/Meal-Scouter/static/js/2.9b6a7e40.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/Meal-Scouter/static/media/viet.f9d4f338.jpg",
     "static/media/homepic.svg": "/Meal-Scouter/static/media/homepic.83950974.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.46a875cf.js",
     "static/js/2.9b6a7e40.chunk.js",
-    "static/css/main.288cee2d.chunk.css",
+    "static/css/main.0ad0b65c.chunk.css",
     "static/js/main.3f160401.chunk.js"
   ]
 }
