@@ -38,13 +38,19 @@ ul li{
 }
 
 
-@media (max-width: 50rem){
+@media (max-width: 55rem){
     .food-type{
         width: 25vw;
-        height: 15vh;
+        height: 110px;
     }
 }
 
+@media (max-width: 40rem){
+    .food-type{
+        width: 25vw;
+        height: 80px;
+    }
+}
 .opac{
     position: absolute;
     width: 100%;
