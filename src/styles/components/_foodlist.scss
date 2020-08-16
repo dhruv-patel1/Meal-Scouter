@@ -26,7 +26,7 @@ ul li{
 }
 
 .food-type{
-    height: 25vh;
+    height: 23vh;
     width: 25vw;
     border: none;
     border-radius: 5px;
@@ -36,11 +36,17 @@ ul li{
     justify-content: center;
     box-shadow: 2px 4px 10px 0px rgba(0, 0, 0, 0.26);
 }
-
-@media (max-width: 45rem){
+@media (max-width: 60rem){
     .food-type{
         width: 25vw;
-        height: 13vh;
+        height: 20vh;
+    }
+}
+
+@media (max-width: 50rem){
+    .food-type{
+        width: 25vw;
+        height: 17vh;
     }
 }
 
