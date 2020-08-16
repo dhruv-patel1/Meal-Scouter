@@ -1,0 +1,26 @@
+.recipes-container{
+    height: 130%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(4, auto);
+
+}
+
+
+.recipes-and-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.recipe-modal-popup{
+    height: 85vh;
+    width: 90vw;
+}
+
+.recipe-container{
+    margin: 8px 8px;
+    background-color: white;
+}

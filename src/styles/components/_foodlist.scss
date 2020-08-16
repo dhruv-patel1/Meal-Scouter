@@ -1,0 +1,153 @@
+ul{
+    margin: 0;
+    padding: 0;
+    height: 120%;
+    list-style-type: none;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(4, auto);
+    
+}
+.list-of-restaurants{
+    background-color: rgb(255, 255, 255);
+    padding: 20px 0px;
+    height: 180%;
+}
+
+.list-of-places{
+    background-color: white;
+}
+
+ul li{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.food-type{
+    height: 25vh;
+    width: 25vw;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    box-shadow: 2px 4px 10px 0px rgba(0, 0, 0, 0.26);
+}
+
+@media (max-width: 45rem){
+    .food-type{
+        width: 25vw;
+        height: 15vh;
+    }
+}
+
+.opac{
+    position: absolute;
+    width: 100%;
+    height: 3vh;
+    bottom: 0;
+    left: 0;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.food-type:focus{
+    outline: none;
+}
+
+.food-name{
+    position: relative;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    color:rgb(0, 0, 0);
+    top:18px;
+}
+
+#Mexican{
+    background-image: url('../../images/mexican.jpg');
+    background-size: 100%;
+}
+
+#Italian{
+    background-image: url('../../images/italian.jpg');
+    background-size: 100%;
+}
+
+#Indian{
+    background-image: url('../../images/indian.jpg');
+    background-size: 100%;
+}
+
+#Korean{
+    background-image: url('../../images/korean.jpg');
+    background-size: 100%;
+}
+#Chinese{
+    background-image: url('../../images/chinese.jpg');
+    background-size: 100%;
+}
+
+#Thai{
+    background-image: url('../../images/thai.jpg');
+    background-size: 100%;
+}
+
+#Chicken{
+    background-image: url("../../images/chicken.jpg");
+    background-size: 100%;
+}
+
+#Halal{
+    background-image: url("../../images/halal.jpg");
+    background-size: 100%;
+}
+
+#Japanese{
+    background-image: url("../../images/japanese.jpg");
+    background-size: 100%;
+}
+
+#Pizza{
+    background-image: url("../../images/pizza.jpg");
+    background-size: 100%;
+}
+#Burgers{
+    background-image: url("../../images/burger.jpg");
+    background-size: 100%;
+}
+#Sandwiches{
+    background-image: url("../../images/sandwich.jpg");
+    background-size: 100%;
+
+}
+
+#Greek{
+    background-image: url("../../images/greek.jpg");
+    background-size: 100%;
+}
+#French{
+    background-image: url("../../images/french.jpg");
+    background-size: 100%;
+}
+#Filipino{
+    background-image: url("../../images/filipino.jpg");
+    background-size: 100%;
+}
+#Spanish{
+    background-image: url("../../images/spanish.jpg");
+    background-size: 100%;
+}
+#Vietnamese{
+    background-image: url("../../images/viet.jpg");
+    background-size: 100%;
+}
+#Caribbean{
+    background-image: url("../../images/caribbean.jpg");
+    background-size: 100%;
+}
