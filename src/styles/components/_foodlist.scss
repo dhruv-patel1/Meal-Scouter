@@ -45,6 +45,19 @@ ul li{
     }
 }
 
+@media(min-width: 870px){
+    .food-type{
+        width: 25vw;
+        height: 140px;
+    }
+}
+
+@media(min-width: 1400px){
+    .food-type{
+        width: 25vw;
+        height: 23vh;
+    }
+}
 @media (max-width: 40rem){
     .food-type{
         width: 25vw;
@@ -79,6 +92,7 @@ ul li{
 #Mexican{
     background-image: url('../../images/mexican.jpg');
     background-size: 100%;
+    
 }
 
 #Italian{
