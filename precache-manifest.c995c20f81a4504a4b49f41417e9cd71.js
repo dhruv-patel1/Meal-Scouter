@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f842c24ed05bf8c807977bd5389e762b",
+    "revision": "fc7d5b5517cd291be8fd447d3613e340",
     "url": "/Meal-Scouter/index.html"
   },
   {
-    "revision": "fe47f3a7a0ee5f28445a",
-    "url": "/Meal-Scouter/static/css/main.b2cca669.chunk.css"
+    "revision": "5dc2a7d97f98751cb593",
+    "url": "/Meal-Scouter/static/css/main.96743169.chunk.css"
   },
   {
     "revision": "57b5d03ce38dccf98dc7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meal-Scouter/static/js/2.9b6a7e40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe47f3a7a0ee5f28445a",
+    "revision": "5dc2a7d97f98751cb593",
     "url": "/Meal-Scouter/static/js/main.3f160401.chunk.js"
   },
   {
